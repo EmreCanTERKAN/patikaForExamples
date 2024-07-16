@@ -1,0 +1,1 @@
+For döngüsü kullanılarak istediğimiz algoritmaları kolaylıkla yapabildiğimiz uygulamaları gösterdim.
